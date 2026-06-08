@@ -5,7 +5,7 @@ Token BEP-20 deploye sur la BNB Smart Chain Testnet.
 ## A propos
 
 Agent42 est un token numerique cree dans le cadre du projet **Tokenizer** de 42.
-Le nom est un clin d'oeil a l'ecole 42 et aux AI agents.
+Le nom est un clin d'oeil a l'ecole 42, aux agents IA (de part mon orientation professionnelle) ainsi qu'à la culture geek / HITMAN.
 
 ## Structure du projet
 
